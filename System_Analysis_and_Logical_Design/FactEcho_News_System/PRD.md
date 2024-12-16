@@ -7,6 +7,7 @@
 - [Business Model](#business-model)
 - [Use Case Diagram](#use-case-diagram)
 - [Activity Diagram](#activity-diagram)
+- [Sequence Diagram](#sequence-diagram)
 - [Technologies Used](#technologies-used)
 - [Clients](#clients)
 - [Hosting](#hosting)
@@ -87,6 +88,12 @@ FactEcho is a news application that provides users with up-to-date news across v
 
 <section align="center">
   <img src="./diagrams/Activity_Diagram.png" alt="Activity Diagram">
+</section>
+
+## **Sequence Diagram**
+
+<section align="center">
+  <img src="./diagrams/Sequence_Diagram.png" alt="Sequence Diagram">
 </section>
 
 ## **Technologies Used**
